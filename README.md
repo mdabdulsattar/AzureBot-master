@@ -15,7 +15,7 @@ Follow our [Developer Set Up](https://github.com/mdabdulsattar/AzureBot-master) 
 
 ## UX Guidelines
 
-If creating new commands, our [UX Guidelines](https://github.com/Microsoft/AzureBot/blob/gh-pages/docs/UX.Guidelines.md) are helpful for the conversational tone and best practices.
+If creating new commands, our [UX Guidelines](https://github.com/mdabdulsattar/AzureBot-master) are helpful for the conversational tone and best practices.
 
 ## Contributing
 
@@ -25,7 +25,6 @@ Note that the AzureBot is a sample and not actively supported.  If you are inter
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mohammedabdulsattar03@outlook.com) with any additional questions or comments.
 
 ## Copyright and license
 
